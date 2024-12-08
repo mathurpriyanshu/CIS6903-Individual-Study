@@ -228,6 +228,13 @@ Once all datasets were standardized, merged, and cleaned, I had a unified datase
 - **debate_number**: The debate number (1, 2, 3, or 4) to classify the debates more effectively.
 
 
+<p align="center">
+  <img src="Sample comment.jpeg" alt="Sample comment" />
+  <br>
+  <em>Sample comment from Debate 4</em>
+</p>
+
+
 ## Data Cleaning and Pipeline Setup
 
 When working with large amounts of data, especially from comments and live chats, it’s crucial to clean it up for accuracy and usefulness. I built a data cleaning pipeline using Snorkel and scikit-learn to automate this process, making the data easier to analyze.
