@@ -62,6 +62,15 @@ For Debate 4 (2024), I automated the scraping process using Hipergator, the Univ
 *Dashboard of live chat messages scraper*
 
 
+
+<p align="center">
+  <img src="Dashboard.png" alt="Live data scraper dashboard" />
+  <br>
+  <strong>Dashboard of live chat messages scraper</strong>
+</p>
+
+
+
 ## Challenges and Adjustments
 
 #### Scraping Frequency:
