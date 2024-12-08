@@ -57,18 +57,15 @@ For Debate 3 (2024), I manually ran the script during and after the debate to ca
 For Debate 4 (2024), I automated the scraping process using Hipergator, the University of Florida’s high-performance system. The script ran continuously, collecting data from multiple sources (NBC, WFLA, CNN TV18) and saving it in JSON format for consistency.
 
 
-![Live data scraper dashboard](Dashboard.png)
+<!-- ![Live data scraper dashboard](Dashboard.png)
 
-*Dashboard of live chat messages scraper*
-
-
+*Dashboard of live chat messages scraper* -->
 
 <p align="center">
   <img src="Dashboard.png" alt="Live data scraper dashboard" />
   <br>
-  <strong>Dashboard of live chat messages scraper</strong>
+  <em>Dashboard of live chat messages scraper</em>
 </p>
-
 
 
 ## Challenges and Adjustments
