@@ -7,7 +7,7 @@ In today’s world, political debates are more than just a contest of words—th
 
 Imagine being able to track every comment, every reaction, and every shift in mood during a presidential debate. From the intense exchanges to the quieter moments, what are people saying, and how are they feeling? This project set out to answer those questions by collecting and analyzing live chat messages and comments from major political debates.
 
-I focused on the **2020 and 2024 presidential debates**, as well as the **2024 vice-presidential debate**, to uncover patterns in how people engage with candidates, which topics drive the strongest reactions, and how debates influence public opinion. By analyzing this data, we can better understand the audience’s mood, the issues that matter most to them, and how their sentiments evolve over the course of the debates.
+I focused on the **2020 and 2024 US Presidential debates**, as well as the **2024 US Vice-Presidential debate**, to uncover patterns in how people engage with candidates, which topics drive the strongest reactions, and how debates influence public opinion. By analyzing this data, we can better understand the audience’s mood, the issues that matter most to them, and how their sentiments evolve over the course of the debates.
 
 Along the way, I also came across an interesting study on **cross-partisan engagement** in online discussions. The research found that conservative users are more likely to engage with left-leaning content than liberals are with right-leaning content. While this didn’t directly impact my analysis, it offered valuable context for understanding how different political groups interact during live debates.
 
