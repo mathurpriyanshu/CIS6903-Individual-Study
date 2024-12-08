@@ -231,7 +231,7 @@ Once all datasets were standardized, merged, and cleaned, I had a unified datase
 <p align="center">
   <img src="Debate 4 comment.png" alt="Sample comment" />
   <br>
-  <em>Sample comment from Debate 4</em>
+  <em>Sample comment from Debate 4 - 'WFAA' news network</em>
 </p>
 
 
