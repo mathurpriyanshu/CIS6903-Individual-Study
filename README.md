@@ -25,6 +25,13 @@ The goal of this project was to capture data from four major political debates: 
 3. **Third Presidential Debate (2024, between Kamala Harris & Donald Trump)** – livechats & comments
 4. **Vice-Presidential Debate (2024, between Tim Walz and JD Vance)** – livechats & comments
 
+<p align="center">
+  <img src="Dataset classification.png" alt="Overview of the dataset" />
+  <br>
+  <em>Overview of the dataset</em>
+</p>
+
+
 ### Why This Data?
 
 The goal was to analyze how different groups engaged with the candidates, focusing on public sentiment and partisan shifts over the debates. Livechat data from Debates 3 and 4 provided real-time reactions, while comments from Debates 1 and 2 offered context for evolving engagement. The vice-presidential debate data helped compare audience reactions in less publicized, yet important debates.
